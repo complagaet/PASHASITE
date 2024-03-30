@@ -1,0 +1,16 @@
+Обновление 1. Полседнее изменение: 23:56 09.11.2017
+
+---
+Способ отображения заднего фона - CSS
+body {
+    background-image: url(bgHQ.png);
+    background-color: #ffffff;
+    background-size: 638px 461px; 
+   }
+Увеличено разрешение заднего фона. Было: 638x461, стало: 2552x1844
+Удалена строка "<body background="images\bgHQ.png" height="3">"
+~
+Новая папка: css/bg --- bg.css; bgHQ.png.
+
+Использование: <link rel="stylesheet" href="css\bg\bg.css">
+---
