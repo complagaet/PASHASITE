@@ -1,1 +1,0 @@
-function info(){alert(TestingText);} ;
